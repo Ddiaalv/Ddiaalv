@@ -9,7 +9,7 @@
 ### Hey 👋🏽, I'm David!
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning [Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=0073E5), [PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL&logoColor=66ABEF), [GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=GraphQL&logoColor=EF66AB)
+- 🌱 I’m currently learning![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=0073E5) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL&logoColor=66ABEF) ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=GraphQL&logoColor=EF66AB)
 - 👯 I’m looking to collaborate on web developement
 - 💬 Ask me about anything, I am happy to help
 - ⚡ Fun fact: I love cats
