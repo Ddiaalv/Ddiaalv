@@ -4,7 +4,7 @@
 [![GitHub: Ddiaalv](https://img.shields.io/badge/-GitHub-333333?style=social&logo=github)](https://github.com/Ddiaalv)
 [![LinkedIn: Ddiaalv](https://img.shields.io/badge/-LinkedIn-333333?style=social&logo=linkedin&logoColor=007ACC)](https://www.linkedin.com/in/ddiaalv/)
 
-<img align="right" alt="ddiaalv profile" width="50%" src="https://raw.githubusercontent.com/Ddiaalv/Ddiaalv/master/github-profile.png" />
+<img align="right" alt="ddiaalv profile" width="50%" src="https://raw.githubusercontent.com/Ddiaalv/Ddiaalv/master/ddiaalv-github-profile.png" />
 
 ### Hey 👋🏽, I'm David!
 
